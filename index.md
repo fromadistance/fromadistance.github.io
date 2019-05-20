@@ -7,4 +7,4 @@
 - I'hsiao Zhang learnt a tiny part of Python on IGCSE computer science course. 
 
 ## About this page
-- Created by Zhang on 5/20/2019 
+- Created by fromadistance on 5/20/2019 
